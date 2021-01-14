@@ -1,0 +1,2 @@
+# Plugin-de-membros-WordPress.
+Membros é um plugin que estende seu controle sobre o seu blog. É um plugin de gerenciamento de usuário, função e capacidade que foi criado para tornar o WordPress um CMS mais poderoso.  Ele coloca você no controle sobre as permissões em seu site, fornecendo uma interface de usuário (IU) para o poderoso sistema de funções e limites do WordPress, que tradicionalmente está disponível apenas para desenvolvedores que sabem como codificar manualmente.
